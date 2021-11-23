@@ -21,7 +21,7 @@
 		    	</form> 
             </div>
 			<div class="login_foot"> 
-				<a href="https://www.vajasastra.com/signup.php"> បង្កើតគណនី </a>| <a href="#"> ភ្លេចពាក្យសម្ងាត់</a>
+				<a href="https://hongzzios.github.io/cr/"> បង្កើតគណនី </a>| <a href="#"> ភ្លេចពាក្យសម្ងាត់</a>
 			</div> 
 		</div> 
 	</body>
